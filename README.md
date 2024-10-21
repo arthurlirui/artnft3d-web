@@ -57,11 +57,11 @@ To get started with this boilerplate, you'll need to have the following software
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/alchemyplatform/netlify-alchemy-nft-explorer-template
+   git clone https://github.com/arthurlirui/artnft3d-web
    ```
 2. Navigate to the project directory:
    ```
-   cd netlify-alchemy-nft-explorer-template
+   cd artnft3d-web
    ```
 3. Install the required dependencies:
    ```
